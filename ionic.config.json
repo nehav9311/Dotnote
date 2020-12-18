@@ -1,0 +1,7 @@
+{
+    "name": "dotnoteori",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "react"
+}

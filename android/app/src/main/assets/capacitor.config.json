@@ -1,0 +1,9 @@
+{
+    "appId":
+    "io.ionic.dotnoteori",
+    "appName": "dotnoteori",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "build",
+    "cordova": {}
+}
